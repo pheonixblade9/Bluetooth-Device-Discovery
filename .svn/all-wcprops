@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/cbm-bluetooth/!svn/ver/4/BluetoothDeviceDiscovery
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cbm-bluetooth/!svn/ver/5/BluetoothDeviceDiscovery/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cbm-bluetooth/!svn/ver/5/BluetoothDeviceDiscovery/.project
+END
